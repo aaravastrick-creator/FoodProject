@@ -784,6 +784,7 @@ footer{
 
 .footer-tags p{
     margin: 15px 0;
+    
 }
 
 .footer-tags i{
@@ -792,6 +793,7 @@ footer{
 }
 
 .footer-tags i:hover{
+    /* font-family: sans-serif; */
     color: #fac031;   
 }
 
@@ -801,11 +803,17 @@ footer{
     align-items: center;
     justify-content: center;
     padding: 15px;
+    margin-top: 10px;
+    font-family: sans-serif;
+
 }
 
  footer .end span{
     color: #fac031;
     margin-left: 10px;
+    font-family: sans-serif;
+    text-decoration: none;
+
 }
 
 ::-webkit-scrollbar{
